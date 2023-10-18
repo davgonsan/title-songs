@@ -3,7 +3,7 @@ import xlwt
 import openpyxl
 
 # Ruta de la carpeta que contiene los archivos
-carpeta = '/home/roadcode/Music'
+carpeta = '/ruta/de/la/carpeta'
 
 # Lista para almacenar los nombres de archivo
 archivos = []
